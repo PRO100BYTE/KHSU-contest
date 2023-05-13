@@ -1,3 +1,3 @@
-# KHSU 2023 contest
+# Олимпиада ХГУ по программированию 2023
 
-This repository contains files with tasks, as well as my solutions from the programming olympiad (contest). Also, it contains files taken in Yandex Contest
+Этот репозиторий содержит файлы с заданиями, а также мой исходный код их решения. Также, репозиторий содержит файлы, взятые из Яндекс.Контеста
